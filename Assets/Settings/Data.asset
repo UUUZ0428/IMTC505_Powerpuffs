@@ -13,8 +13,14 @@ MonoBehaviour:
   m_Name: Data
   m_EditorClassIdentifier: 
   identifier: Data
-  buildKey: 00001
+  buildKey: 52e41c74e586bdd4e8dafaa4b7b24b3e
   groupID: e25319db-1b58-4bd6-a776-86be5f7d0e58
-  boundingBoxWithHandlesPrefab: {fileID: 0}
+  boundingBoxWithHandlesPrefab: {fileID: 5671351296789090341, guid: 7b542306e34a62f4c9a822fcb19b7d99,
+    type: 3}
   stateChanged: 0
-  placables: []
+  placables:
+  - identifier: Bear
+    prefab: {fileID: 142578580016184757, guid: 92332613a3a44554c8cb231325afa7a0, type: 3}
+  - identifier: Coyote
+    prefab: {fileID: 8819502215328710489, guid: 4f7cdcdcf39078a47a407ec99f73aac9,
+      type: 3}
