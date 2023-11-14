@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
+
     public void LoadScene(string sceneName)
     {
         Debug.Log("Loading scene: " + sceneName);
@@ -19,7 +20,8 @@ public class SceneLoader : MonoBehaviour
 
     public void LoadIntroScene()
     {
-        SceneManager.LoadScene("Intro_CutScenes");
+        //SceneManager.LoadScene("Intro_CutScenes");
+        SceneManager.LoadScene(0);
     }
 
 

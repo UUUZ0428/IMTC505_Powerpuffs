@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 064957ea01d60004facde86cef4bbefc, type: 3}
+  m_Name: SampleData
+  m_EditorClassIdentifier: 
+  identifier: SampleData
+  buildKey: c72682350bf69f04f8ecd2594137f6dc
+  groupID: e25319db-1b58-4bd6-a776-86be5f7d0e58
+  boundingBoxWithHandlesPrefab: {fileID: 5671351296789090341, guid: 7b542306e34a62f4c9a822fcb19b7d99,
+    type: 3}
+  stateChanged: 0
+  placables:
+  - identifier: Lander
+    prefab: {fileID: 100018, guid: f9a8072f5d9b92347a999f10f01b8012, type: 3}
+  - identifier: Bear
+    prefab: {fileID: 142578580016184757, guid: ebda3dd93fd9ab443b618ca47f82ddcd, type: 3}

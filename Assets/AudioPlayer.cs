@@ -1,7 +1,11 @@
+using MixedReality.Toolkit;
+using MixedReality.Toolkit.SpatialManipulation;
+using MixedReality.Toolkit.UX;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class AudioPlayer : MonoBehaviour
 {
@@ -13,23 +17,25 @@ public class AudioPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        source = gameObject.AddComponent<AudioSource>();
+        source = GetComponent<AudioSource>();
         source.clip = music;
-        //music = Resources.Load<AudioClip>("Assets/playMusic/okanagan_song.mp3");
-        
+
+        StatefulInteractable statefulInteractable = gameObject.AddComponent<StatefulInteractable>();
+        statefulInteractable.OnClicked.AddListener(playMusic);
     }
 
     // Update is called once per frame
     public void playMusic()
     {
-        if(!m_Play){
-            source.Play();
-            m_Play = true;
-        } else{
-            source.Stop();
-            m_Play = false;
+        m_Play = !m_Play;
+        if (!m_Play)
+        {
+            source.Play();       
         }
-        
-        
+        else
+        {
+            source.Stop();
+
+        }
     }
 }
