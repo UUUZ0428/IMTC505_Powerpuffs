@@ -20,8 +20,8 @@ public class SceneLoader : MonoBehaviour
 
     public void LoadIntroScene()
     {
-        //SceneManager.LoadScene("Intro_CutScenes");
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("Intro_CutScenes");
+        //SceneManager.LoadScene(0);
     }
 
 

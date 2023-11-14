@@ -23,3 +23,6 @@ MonoBehaviour:
     prefab: {fileID: 100018, guid: f9a8072f5d9b92347a999f10f01b8012, type: 3}
   - identifier: Bear
     prefab: {fileID: 142578580016184757, guid: ebda3dd93fd9ab443b618ca47f82ddcd, type: 3}
+  - identifier: BearButton
+    prefab: {fileID: 8303665868340405708, guid: 33c28354905a2d046a9673ebfb058fba,
+      type: 3}
