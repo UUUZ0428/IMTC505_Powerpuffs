@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class GameLoader : MonoBehaviour
 {
     void OnEnable(){
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 }
