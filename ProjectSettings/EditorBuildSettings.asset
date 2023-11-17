@@ -17,13 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Roadmap.Generated/Scenes/generated_VR_Scene.unity
     guid: 4f9f68baac71b174faadde2ecc3bf09b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Intro_CutScenes.unity
     guid: a3e57c86006f0344088e0cfd975402ae
   - enabled: 0
     path: Assets/Roadmap.Generated/Scenes/generated_AR_Scene.unity
     guid: 6cddb84d1f01ca24fa4772eec3760559
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/UI_MainMenu.unity
     guid: ad0c6cfe8102f634eb75e28c365097a9
   m_configObjects:
