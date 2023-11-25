@@ -17,7 +17,7 @@ MonoBehaviour:
   groupID: e25319db-1b58-4bd6-a776-86be5f7d0e58
   boundingBoxWithHandlesPrefab: {fileID: 5671351296789090341, guid: 7b542306e34a62f4c9a822fcb19b7d99,
     type: 3}
-  stateChanged: 0
+  stateChanged: 1
   placables:
   - identifier: Lander
     prefab: {fileID: 100018, guid: f9a8072f5d9b92347a999f10f01b8012, type: 3}
@@ -25,4 +25,7 @@ MonoBehaviour:
     prefab: {fileID: 142578580016184757, guid: ebda3dd93fd9ab443b618ca47f82ddcd, type: 3}
   - identifier: BearButton
     prefab: {fileID: 8303665868340405708, guid: 33c28354905a2d046a9673ebfb058fba,
+      type: 3}
+  - identifier: RoadSign
+    prefab: {fileID: 7007776039930947549, guid: 72c623a3198690c44a7879c2886ec64a,
       type: 3}

@@ -18,7 +18,7 @@ public class DialogueManager : MonoBehaviour
     //private DialogueTrigger trigger;
 
 
-    [SerializeField] public float typingSpeed = 0.01f;
+    [SerializeField] public float typingSpeed = 0.05f;
     private Coroutine displayLineCoroutine;
     
 
@@ -96,7 +96,7 @@ public class DialogueManager : MonoBehaviour
             if (Input.GetMouseButtonDown(0))
             {
                 dialogue.text = line;
-                break;
+                yield break;
             }
             dialogue.text += letter;
             yield return new WaitForSeconds(typingSpeed);

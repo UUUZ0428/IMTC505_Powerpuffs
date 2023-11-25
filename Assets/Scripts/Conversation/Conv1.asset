@@ -22,3 +22,24 @@ MonoBehaviour:
   - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
     dialogue: "Sorry if I startled you! You\u2019re probably not used to a talking
       coyote. You may refer to me as the Senklip.\r\n"
+  - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
+    dialogue: 'Years ago, the Syilx nation welcomed the university onto the land. '
+  - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
+    dialogue: UBC and the Syilx nation have a long standing, collaborative relationship
+      with each other in hopes of sharing the Okanagan Indigenous culture, history,
+      language, philosophy and knowledge to others.
+  - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
+    dialogue: 'You are wondering how this relates back to me? '
+  - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
+    dialogue: "Well, my friend, I am here to help guide newcomers into learning more
+      about the relationship between UBCO and the Syilx nation. \r\n\r\n"
+  - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
+    dialogue: 'You may have noticed a few landmarks around the courtyard here when
+      you entered.  '
+  - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
+    dialogue: 'These landmarks have special meaning to each of them. '
+  - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
+    dialogue: "I\u2019d like you to explore this space and look more closely into
+      these landmarks. \r"
+  - speaker: {fileID: 11400000, guid: e837455c08d098c419464faea8dfee3f, type: 2}
+    dialogue: "Can I entrust you in doing this? I will leave you to go on this quest.\r"
