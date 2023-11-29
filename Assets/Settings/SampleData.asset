@@ -17,7 +17,7 @@ MonoBehaviour:
   groupID: e25319db-1b58-4bd6-a776-86be5f7d0e58
   boundingBoxWithHandlesPrefab: {fileID: 5671351296789090341, guid: 7b542306e34a62f4c9a822fcb19b7d99,
     type: 3}
-  stateChanged: 1
+  stateChanged: 0
   placables:
   - identifier: Lander
     prefab: {fileID: 100018, guid: f9a8072f5d9b92347a999f10f01b8012, type: 3}
@@ -28,4 +28,13 @@ MonoBehaviour:
       type: 3}
   - identifier: RoadSign
     prefab: {fileID: 7007776039930947549, guid: 72c623a3198690c44a7879c2886ec64a,
+      type: 3}
+  - identifier: PopUp
+    prefab: {fileID: 5850546302503136528, guid: 2e28290a3dfcc304eaad47c59f09d973,
+      type: 3}
+  - identifier: musicNote
+    prefab: {fileID: 3133548096772341771, guid: 547467a3a43e5d04ab6385ef903a3a9c,
+      type: 3}
+  - identifier: coyotee
+    prefab: {fileID: 5375534787630681435, guid: 839b7a150c0988346a52f177f0ba550b,
       type: 3}

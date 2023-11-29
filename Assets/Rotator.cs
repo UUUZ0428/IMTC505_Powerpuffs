@@ -1,5 +1,6 @@
 
 using MixedReality.Toolkit;
+using MixedReality.Toolkit.UX;
 using UnityEngine;
 
 public class RotateGameObject : MonoBehaviour
@@ -13,6 +14,7 @@ public class RotateGameObject : MonoBehaviour
     {
         // Add StatefulInteractable component to the existing GameObject
         StatefulInteractable statefulInteractable = gameObject.AddComponent<StatefulInteractable>();
+        gameObject.AddComponent<UGUIInputAdapter>();
 
         // Add listener for the OnClicked event
         statefulInteractable.OnClicked.AddListener(ToggleRotation);

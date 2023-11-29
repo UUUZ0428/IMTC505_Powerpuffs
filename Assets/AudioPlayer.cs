@@ -21,7 +21,10 @@ public class AudioPlayer : MonoBehaviour
         source.clip = music;
 
         StatefulInteractable statefulInteractable = gameObject.AddComponent<StatefulInteractable>();
+         gameObject.AddComponent<UGUIInputAdapter>();
         statefulInteractable.OnClicked.AddListener(playMusic);
+        
+
     }
 
     // Update is called once per frame

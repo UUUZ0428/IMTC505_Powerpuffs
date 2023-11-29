@@ -24,5 +24,9 @@ public class SceneLoader : MonoBehaviour
         //SceneManager.LoadScene(0);
     }
 
+    public void LoadGamePlayScene(){
+        SceneManager.LoadScene(1);
+    }
+
 
 }
