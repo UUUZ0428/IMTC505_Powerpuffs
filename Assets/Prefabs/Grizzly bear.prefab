@@ -392,6 +392,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 7805335972967005422}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2b5151c5dd6ef9a46a50b60ee58b182b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5755814164081741525}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2b5151c5dd6ef9a46a50b60ee58b182b,
         type: 3}
@@ -562,7 +566,7 @@ PrefabInstance:
     - target: {fileID: 2589716731366296177, guid: 2c4cecf25adbc2f4c88bc2752a9c3264,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3939605952418872802, guid: 2c4cecf25adbc2f4c88bc2752a9c3264,
         type: 3}
@@ -671,6 +675,137 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4005587257750952167}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4360653205219974587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 770496903954687759}
+    m_Modifications:
+    - target: {fileID: 2713279965616452754, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4384934431750542974, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_text
+      value: "Among our wildlife up here in the Okanagan, we have the grizzly bear,
+        which we like to call the ki\u0241lawna\u0241. Unfortunately, these bears
+        have been absent from the North Cascades of the Okanagan due to overhunting
+        and persecution by settlers over the years. For years, the Syilx nation has
+        been working to restore populations of salmon and the ki\u0241lawna\u0241.
+        They were declared as protected within this territory in 2014 in hopes to
+        bring out this restoration of the population. Let\u2019s see if these efforts
+        will bring out results soon one day!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4384934431750542974, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4384934431750542974, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -351.7467
+      objectReference: {fileID: 0}
+    - target: {fileID: 4384934431750542974, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.222
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315022052445066639, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_Name
+      value: interactiveButton Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8703046611824927802, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_text
+      value: 'Bear '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8703046611824927802, guid: b0c03918535ed8f468ca473822840b59,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b0c03918535ed8f468ca473822840b59, type: 3}
+--- !u!4 &5755814164081741525 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
+    type: 3}
+  m_PrefabInstance: {fileID: 4360653205219974587}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8236863341141938711
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -698,6 +833,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PressableButton_80x32mm_SingleLineText
+      objectReference: {fileID: 0}
+    - target: {fileID: 7256543901087109448, guid: dc7ef7d5625c3454ab5097673a207485,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7256543901607729065, guid: dc7ef7d5625c3454ab5097673a207485,
         type: 3}

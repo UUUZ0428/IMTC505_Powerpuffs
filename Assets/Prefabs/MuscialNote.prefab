@@ -1,5 +1,109 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &449675690463947346
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2321405259765242545}
+    m_Modifications:
+    - target: {fileID: 3347838745949424643, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4324200583819572083, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_text
+      value: The Okanagan Song
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737940897357318324, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_Name
+      value: interactiveButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 6377829297330397059, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_text
+      value: "\u201CLovely song, isn\u2019t it? \n\nThis song is simply called \u201CThe
+        Okanagan Song\u201D and is performed by Trish Manuel and Bruce Manuel. It
+        is based on a traditional song style called the skelmxquin. Skelmxquin songs
+        belong to the Okanagan/Syilx people collectively. This song has been called
+        the \u201COkanagan Song\u201D or the \u201COkanagan Nation Anthem\u201D because
+        it was constructed to celebrate pride in being Okanagan.\u201D\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6377829297330397059, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 6377829297330397059, guid: 006e759d61e26244c9ed82a2db110104,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 006e759d61e26244c9ed82a2db110104, type: 3}
+--- !u!4 &5304346941039584263 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5737940895729405525, guid: 006e759d61e26244c9ed82a2db110104,
+    type: 3}
+  m_PrefabInstance: {fileID: 449675690463947346}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2076141800914308343
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57,6 +161,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: popUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5850546302503136528, guid: 2e28290a3dfcc304eaad47c59f09d973,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6100742309832349073, guid: 2e28290a3dfcc304eaad47c59f09d973,
         type: 3}
@@ -314,6 +423,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 5216821179571411302}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: b3c2c30690d2224449b35a7215eda39a,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5304346941039584263}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b3c2c30690d2224449b35a7215eda39a,
         type: 3}
