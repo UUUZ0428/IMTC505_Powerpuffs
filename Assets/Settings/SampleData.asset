@@ -23,12 +23,6 @@ MonoBehaviour:
     prefab: {fileID: 100018, guid: f9a8072f5d9b92347a999f10f01b8012, type: 3}
   - identifier: Bear
     prefab: {fileID: 142578580016184757, guid: ebda3dd93fd9ab443b618ca47f82ddcd, type: 3}
-  - identifier: BearButton
-    prefab: {fileID: 8303665868340405708, guid: 33c28354905a2d046a9673ebfb058fba,
-      type: 3}
-  - identifier: RoadSign
-    prefab: {fileID: 7007776039930947549, guid: 72c623a3198690c44a7879c2886ec64a,
-      type: 3}
   - identifier: PopUp
     prefab: {fileID: 5850546302503136528, guid: 2e28290a3dfcc304eaad47c59f09d973,
       type: 3}
@@ -37,4 +31,10 @@ MonoBehaviour:
       type: 3}
   - identifier: coyotee
     prefab: {fileID: 5375534787630681435, guid: 839b7a150c0988346a52f177f0ba550b,
+      type: 3}
+  - identifier: roadSignButton
+    prefab: {fileID: 5737940897357318324, guid: 006e759d61e26244c9ed82a2db110104,
+      type: 3}
+  - identifier: roadSign
+    prefab: {fileID: 7007776039930947549, guid: 72c623a3198690c44a7879c2886ec64a,
       type: 3}
