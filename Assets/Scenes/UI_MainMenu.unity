@@ -177,7 +177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.078431375, g: 0.12941177, b: 0.23921569, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -347,14 +347,14 @@ RectTransform:
   m_GameObject: {fileID: 375801209}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.5278, y: 3.5278, z: 3.5278}
+  m_LocalScale: {x: 4.2763996, y: 4.2763996, z: 4.2763996}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 93050419}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 125}
+  m_AnchoredPosition: {x: 0, y: 175}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &375801211
@@ -690,14 +690,14 @@ RectTransform:
   m_GameObject: {fileID: 1020752779}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4964429, y: 1.4964429, z: 1.4964429}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 93050419}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -116.5, y: -75.5}
+  m_AnchoredPosition: {x: -195, y: -75.5}
   m_SizeDelta: {x: 191, y: 51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1020752781
@@ -722,16 +722,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: "The Senklip's Quest: \nA Journey to the Past "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bf4a8722f1d38a4469e142daae69d4cb, type: 2}
-  m_sharedMaterial: {fileID: 3812664556163100726, guid: bf4a8722f1d38a4469e142daae69d4cb,
+  m_fontAsset: {fileID: 11400000, guid: eaf39680797254e42acd4f7647bcdff0, type: 2}
+  m_sharedMaterial: {fileID: -6327700140770504650, guid: eaf39680797254e42acd4f7647bcdff0,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4279355644
+  m_fontColor: {r: 0.9882353, g: 0.78431374, b: 0.06666667, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -784,7 +784,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -271.05035, w: -127.47174}
+  m_margin: {x: -62.57483, y: 0, z: -326.29572, w: -127.47174}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1040,7 +1040,7 @@ RectTransform:
   m_GameObject: {fileID: 1732880978}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8928, y: 1.8928, z: 1.8928}
+  m_LocalScale: {x: 1.8928, y: 2.7015934, z: 1.8928}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1958744249}
@@ -1048,7 +1048,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: -276}
+  m_AnchoredPosition: {x: 3, y: -400}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1732880980
@@ -1072,7 +1072,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: 0.8509804, g: 0.8509804, b: 0.8509804, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -1120,7 +1120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.8509804, g: 0.8509804, b: 0.8509804, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1415,14 +1415,14 @@ RectTransform:
   m_GameObject: {fileID: 1958744248}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.52831787, y: 0.52831787, z: 0.52831787}
+  m_LocalScale: {x: 0.52831787, y: 0.3701519, z: 0.52831787}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1732880979}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -0.39999962}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1958744250
@@ -1447,15 +1447,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Enter
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: eaf39680797254e42acd4f7647bcdff0, type: 2}
+  m_sharedMaterial: {fileID: -6327700140770504650, guid: eaf39680797254e42acd4f7647bcdff0,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4282196244
+  m_fontColor: {r: 0.078431375, g: 0.12941177, b: 0.23921569, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

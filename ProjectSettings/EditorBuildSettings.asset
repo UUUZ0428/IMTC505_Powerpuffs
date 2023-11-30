@@ -17,15 +17,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Roadmap.Generated/Scenes/generated_VR_Scene.unity
     guid: 2b75fe4a43c77c04ba330ca88a902b14
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/UI_MainMenu.unity
+    guid: ad0c6cfe8102f634eb75e28c365097a9
+  - enabled: 1
     path: Assets/Scenes/Intro_CutScenes.unity
     guid: a3e57c86006f0344088e0cfd975402ae
   - enabled: 1
     path: Assets/Roadmap.Generated/Scenes/generated_AR_Scene.unity
     guid: 7d378d9b6fe8d4349b0f64c8a2cdf752
-  - enabled: 0
-    path: Assets/Scenes/UI_MainMenu.unity
-    guid: ad0c6cfe8102f634eb75e28c365097a9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 507327ded4aa4ac498f3327522f06b83,
       type: 2}

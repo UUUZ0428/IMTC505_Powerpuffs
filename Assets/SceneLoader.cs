@@ -21,12 +21,18 @@ public class SceneLoader : MonoBehaviour
     public void LoadIntroScene()
     {
         SceneManager.LoadScene("Intro_CutScenes");
-        //SceneManager.LoadScene(0);
     }
 
     public void LoadGamePlayScene(){
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 
+    public void LoadMainMenu(){
+        SceneManager.LoadScene("UI_MainMenu");
+    }
+
+    public void QuitGame(){
+        Application.Quit();
+    }
 
 }

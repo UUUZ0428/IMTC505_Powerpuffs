@@ -38,3 +38,6 @@ MonoBehaviour:
   - identifier: roadSign
     prefab: {fileID: 7007776039930947549, guid: 72c623a3198690c44a7879c2886ec64a,
       type: 3}
+  - identifier: exitUI
+    prefab: {fileID: 7815350992160002484, guid: 264acf430fff2c84c96dcfa45996e08d,
+      type: 3}
