@@ -41,3 +41,12 @@ MonoBehaviour:
   - identifier: exitUI
     prefab: {fileID: 7815350992160002484, guid: 264acf430fff2c84c96dcfa45996e08d,
       type: 3}
+  - identifier: bearbutton
+    prefab: {fileID: 7631543601170505069, guid: 8221af024b70aa249b9ba8e355b5e700,
+      type: 3}
+  - identifier: musicbutton
+    prefab: {fileID: 1216793124325075429, guid: cac137738e3ed234aaafca0656196c6b,
+      type: 3}
+  - identifier: coyotebutton
+    prefab: {fileID: 2892777902450839988, guid: fd2bf77fb0b77f144a191f30dc03bc1a,
+      type: 3}

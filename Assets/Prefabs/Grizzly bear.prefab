@@ -527,6 +527,90 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 953606054304579812}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2740565736000148825
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 770496903954687759}
+    m_Modifications:
+    - target: {fileID: 4892524604896316573, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601170505069, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_Name
+      value: bearinteractiveButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601170505069, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.009
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8221af024b70aa249b9ba8e355b5e700, type: 3}
+--- !u!4 &5755814164081741525 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7631543601690073996, guid: 8221af024b70aa249b9ba8e355b5e700,
+    type: 3}
+  m_PrefabInstance: {fileID: 2740565736000148825}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4005587257750952167
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -674,137 +758,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6612599088134562825, guid: 2c4cecf25adbc2f4c88bc2752a9c3264,
     type: 3}
   m_PrefabInstance: {fileID: 4005587257750952167}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &4360653205219974587
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 770496903954687759}
-    m_Modifications:
-    - target: {fileID: 2713279965616452754, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4384934431750542974, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_text
-      value: "Among our wildlife up here in the Okanagan, we have the grizzly bear,
-        which we like to call the ki\u0241lawna\u0241. Unfortunately, these bears
-        have been absent from the North Cascades of the Okanagan due to overhunting
-        and persecution by settlers over the years. For years, the Syilx nation has
-        been working to restore populations of salmon and the ki\u0241lawna\u0241.
-        They were declared as protected within this territory in 2014 in hopes to
-        bring out this restoration of the population. Let\u2019s see if these efforts
-        will bring out results soon one day!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 4384934431750542974, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_fontSize
-      value: 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 4384934431750542974, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_margin.z
-      value: -351.7467
-      objectReference: {fileID: 0}
-    - target: {fileID: 4384934431750542974, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_fontSizeBase
-      value: 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.222
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8315022052445066639, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_Name
-      value: interactiveButton Variant
-      objectReference: {fileID: 0}
-    - target: {fileID: 8703046611824927802, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_text
-      value: 'Bear '
-      objectReference: {fileID: 0}
-    - target: {fileID: 8703046611824927802, guid: b0c03918535ed8f468ca473822840b59,
-        type: 3}
-      propertyPath: m_HorizontalAlignment
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b0c03918535ed8f468ca473822840b59, type: 3}
---- !u!4 &5755814164081741525 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8315022050818200430, guid: b0c03918535ed8f468ca473822840b59,
-    type: 3}
-  m_PrefabInstance: {fileID: 4360653205219974587}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8236863341141938711
 PrefabInstance:
