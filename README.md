@@ -11,14 +11,14 @@ Note: This app only works on Android devices.
 This unity project uses a RoadmapAuthoring template setup. Details could be found here: [RoadmapAuthoring](https://github.com/ovi-lab/RoadmapAuthoring) package, which allows authoring AR applications in both AR & VR, where the setup is synchrnoinzed through a cloud server. For the documentation visit https://ovi-lab.github.io/RoadmapAuthoring
 
 **Background information**
-Coyote story [link](https://www.firstvoices.com/explore/FV/sections/Data/nsyilxc%C9%99n/nsyilxc%C9%99n/Syilx).
-Road sign [link](https://ok.ubc.ca/about/indigenous-engagement/)
+Coyote story [link](https://www.firstvoices.com/explore/FV/sections/Data/nsyilxc%C9%99n/nsyilxc%C9%99n/Syilx).  <br>
+Road sign [link](https://ok.ubc.ca/about/indigenous-engagement/) <br>
 
 
 **Audio**
-*The Okanagan Song* [link](https://www.syilx.org/about-us/syilx-nation/songs/). \
+*The Okanagan Song* [link](https://www.syilx.org/about-us/syilx-nation/songs/). <br>
 
-Bear Sound [link](https://quicksounds.com/sound/2736/large-black-bear-processed-roar-and-growl)
+Bear Sound [link](https://quicksounds.com/sound/2736/large-black-bear-processed-roar-and-growl) <br>
 
 **Models**
 Coyote (https://skfb.ly/oIqpp) by alitural is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
