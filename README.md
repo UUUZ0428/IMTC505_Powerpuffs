@@ -1,7 +1,15 @@
 # IMTC505 project - Senklip's Quest
 
+## Senklip's Quest
+![Alt text](cover.png)
+
 ### Description:
 This is a course project for IMTC505 Immersive Technology. It is an AR app which serves as an introduction of the history of the land that UBC-Okanagan campus is situated. Players discovers and learns the background of landmarks that has stories from the Syllix Okanagan through a guided tour.
+
+###Introduction 
+Our objective is to introduce a visitor to the history of the land the university is situated on and promote the culture (especially the language & music) of the Syllix Okanagan through a guided tour and a gamified experience. 
+
+The game begins with the player, a new visitor arriving UBC Okanagan campus and is taking a personal tour of the campus. At the start of the game, they will be greeted by a NPC called Senklip (sen’k’lip, meaning coyotee). Senklip will give the player instructions to hunt for valued objects that depicts the relationship of okanagan nation as they interact with each object. When players interact with each object around the campus, there will be pop-up windows giving a brief background about the object. 
 
 ### Installation:
 Download and install the apk file. Enables location and camera access while using the appp [download here](https://drive.google.com/file/d/16eQjCrbZk0zJMMtO_FBmS2biAY1-gXwN/view?usp=sharing).
