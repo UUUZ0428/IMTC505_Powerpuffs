@@ -18,17 +18,17 @@ Note: This app only works on Android devices.
 ### Contribution and References: 
 This unity project uses a RoadmapAuthoring template setup. Details could be found here: [RoadmapAuthoring](https://github.com/ovi-lab/RoadmapAuthoring) package, which allows authoring AR applications in both AR & VR, where the setup is synchrnoinzed through a cloud server. For the documentation visit [Roadmap Documentation](https://ovi-lab.github.io/RoadmapAuthoring)
 
-**Background information**
+###### Background information
 Coyote story [link](https://www.firstvoices.com/explore/FV/sections/Data/nsyilxc%C9%99n/nsyilxc%C9%99n/Syilx).  <br>
 Road sign [link](https://ok.ubc.ca/about/indigenous-engagement/) <br>
 
 
-**Audio**
+###### Audio
 *The Okanagan Song* [link](https://www.syilx.org/about-us/syilx-nation/songs/). <br>
 
 Bear Sound [link](https://quicksounds.com/sound/2736/large-black-bear-processed-roar-and-growl) <br>
 
-**Models**
+###### Models
 All models are licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).<br>
 [Coyote](https://skfb.ly/oIqpp) by alitural <br>
 [Grizzly Bear](https://skfb.ly/orD8J) by freddy1231 <br>
