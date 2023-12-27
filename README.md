@@ -3,7 +3,7 @@
 ![cover img](cover.png)
 
 ### Description:
-This is a course project for IMTC505 Immersive Technology. It is an AR app which serves as an introduction of the history of the land that UBC-Okanagan campus is situated. Players discovers and learns the background of landmarks that has stories from the Syllix Okanagan through a guided tour. <br>
+This is a course project for IMTC505 Immersive Technology. It is an AR app that serves as an introduction to the history of the land which the UBC-Okanagan campus is situated. Players discover and learn the background of landmarks that have stories from the Syilx Okanagan through a guided tour. <br>
 
 The presentation and demo can be found here (demo is from 1'15'' to 4'20''):[presentation](https://drive.google.com/file/d/10HgUXIq7C9POH8SvBafEUQMPkWDAoenE/view?usp=sharing)
 
